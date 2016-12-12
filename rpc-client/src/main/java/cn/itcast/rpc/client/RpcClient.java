@@ -32,6 +32,7 @@ public class RpcClient extends SimpleChannelInboundHandler<RpcResponse> {
 	private int port;
 
 	private RpcResponse response;
+	
 
 	private final Object obj = new Object();
 

@@ -1,0 +1,39 @@
+2016-12-12 22:27:00,692 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-client:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-client\pom.xml.
+2016-12-12 22:27:01,002 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-common:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-common\pom.xml.
+2016-12-12 22:27:01,056 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-registry:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-registry\pom.xml.
+2016-12-12 22:27:01,107 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-sample-app:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-sample-app\pom.xml.
+2016-12-12 22:27:01,245 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-sample-client:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-sample-client\pom.xml.
+2016-12-12 22:27:01,287 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-sample-server:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-sample-server\pom.xml.
+2016-12-12 22:27:01,413 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-server:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-server\pom.xml.
+2016-12-12 22:27:02,100 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-common/src/main/java
+2016-12-12 22:27:02,100 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-common/src/main/resources
+2016-12-12 22:27:02,101 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-common/src/test/java
+2016-12-12 22:27:02,101 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-common/src/test/resources
+2016-12-12 22:27:02,184 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-registry/src/main/java
+2016-12-12 22:27:02,185 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-registry/src/main/resources
+2016-12-12 22:27:02,185 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-registry/src/test/java
+2016-12-12 22:27:02,185 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-registry/src/test/resources
+2016-12-12 22:27:02,216 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-server/src/main/java
+2016-12-12 22:27:02,216 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-server/src/main/resources
+2016-12-12 22:27:02,217 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-server/src/test/java
+2016-12-12 22:27:02,217 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-server/src/test/resources
+2016-12-12 22:27:02,272 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-client/src/main/java
+2016-12-12 22:27:02,273 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-client/src/main/resources
+2016-12-12 22:27:02,273 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-client/src/test/java
+2016-12-12 22:27:02,273 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-client/src/test/resources
+2016-12-12 22:27:02,308 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-sample-client/src/main/java
+2016-12-12 22:27:02,309 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-sample-client/src/main/resources
+2016-12-12 22:27:02,309 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-sample-client/src/test/java
+2016-12-12 22:27:02,309 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-sample-client/src/test/resources
+2016-12-12 22:27:02,334 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-sample-app/src/main/java
+2016-12-12 22:27:02,334 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-sample-app/src/main/resources
+2016-12-12 22:27:02,334 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-sample-app/src/test/java
+2016-12-12 22:27:02,335 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-sample-app/src/test/resources
+2016-12-12 22:27:02,384 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-sample-server/src/main/java
+2016-12-12 22:27:02,384 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-sample-server/src/main/resources
+2016-12-12 22:27:02,384 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rpc-sample-server/src/test/java
+2016-12-12 22:27:02,384 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rpc-sample-server/src/test/resources
+2016-12-12 22:27:02,432 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 7 project(s) in 2 sec
+2016-12-12 22:27:02,824 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-client:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-client\pom.xml.
+2016-12-12 22:27:03,120 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-common:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-common\pom.xml.
+2016-12-12 22:27:03,237 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.rpc:rpc-registry:0.0.1-SNAPSHOT @ E:\jiagou2\rpc\rpc-registry\pom.xml.
